@@ -1,0 +1,64 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+
+body {
+    margin: 25px 25px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+#p {
+    font-weight: bold;
+}
+
+#searchInput {
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+
+#searchButton {
+    padding: 5px 5px 5px 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgba(8, 128, 8, 0.658);
+    color: white;
+    border-radius: 2px 2px;
+}
+
+#newHero {
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    background-color: rgba(226, 226, 18, 0.788);
+
+    border-radius: 2px 2px;
+}
+
+#heroImage {
+    padding-top: 20px;
+    margin-right: 10px;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+}
+
+p {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    font-weight: bold;
+    font-size: 13px;
+
+}
+
